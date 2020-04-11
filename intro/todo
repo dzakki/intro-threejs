@@ -1,0 +1,19 @@
+1. scene terlebih dahulu, atau canvas ketika memulai menggunakan photoshop.
+2. camera ada PerspectiveCamera, StereoCamera, OrthographicCamera dan CubeCamera, tapi kita memulai menggunakan PerspectiveCamera dulu.
+PerspectiveCamera ada 4 argument, yaitu:
+- FOV( field of view ): adalah berapa banyak yang anda bisa lihat disekitar camera
+- aspect adalah rasio FOX, atau dengan kata lain lebar ke tinggi layar (misalnya 4: 5, 16: 9).
+- dua yang terakhir adalah near dan far, adalah bidang solid. bersama-sama mereka mengontrol jika sebuah object diberikan berdasarkan jaraknya dari kamera. near adalah benda yang paling dekat atau benda yang bisa ke kamera saat masih dirender. Far adalah benda terjauh dari kamera dan masih dirender.
+
+koordinat  ref: http://koordinat.xyz/
+
+3. WebGlRenderer untuk menampilkan kreasi kita.
+
+Dengan renderer yang didefinisikan, kita dapat mengatur metode untuk menyesuaikan kreasi kita lebih jauh seperti setSize.
+
+4. DOM  document.body.appendChild( renderer.domElement );
+ untuk menampilkan hasilnya dan akan dalam bentuk elemen canvas
+
+
+
+ref: https://webdesign.tutsplus.com/id/tutorials/a-noobs-guide-to-threejs--cms-28639

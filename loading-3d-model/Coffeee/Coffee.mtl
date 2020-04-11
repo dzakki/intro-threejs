@@ -1,0 +1,1080 @@
+# Blender MTL File: 'None'
+# Material Count: 99
+
+newmtl Bun1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-1.jpg
+
+newmtl Bun2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-2.jpg
+
+newmtl Bun3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-3.jpg
+
+newmtl Bun4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-16.jpg
+
+newmtl Bun5
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-3_17.png
+
+newmtl Bun_Shelf_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Text-FA-PATH-3.jpg
+
+newmtl Cashier_Rear
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-5.jpg
+
+newmtl Cashier_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-1.jpg
+
+newmtl Cashier_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-3.jpg
+
+newmtl Chicken1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-4.jpg
+
+newmtl Chicken2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-5.jpg
+
+newmtl Chicken3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-6.jpg
+
+newmtl Chicken4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-7.jpg
+
+newmtl Chicken5
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-8.jpg
+
+newmtl Chicken6
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-9.jpg
+
+newmtl Chicken_Rice_Back
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.427451 0.501961 0.537255
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-Wall.jpg
+
+newmtl Chicken_Rice_Cashier
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-2-8.jpg
+
+newmtl Coffeeshop_Header
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Header-CS-FA-PATH-2.jpg
+
+newmtl Coffeeshop_Programmes
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Header-CS-FA-PATH-1.jpg
+
+newmtl Curry_Puff1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-4.jpg
+
+newmtl Curry_Puff2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-5.jpg
+
+newmtl Curry_Puff3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-6.jpg
+
+newmtl Dark_Purple
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-2a_what.jpg
+
+newmtl Drinks
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.427451 0.501961 0.537255
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Drinks-FA-PATH-3.jpg
+
+newmtl Drinks_Back
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-FA-PATH-2.jpg
+
+newmtl Drinks_Cashier
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-2-2.jpg
+
+newmtl Drinks_Cup_Green
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-7_factsheet.jpg
+
+newmtl Drinks_Cup_Pink
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-7_factsheet.jpg
+
+newmtl Drinks_Cup_Purple
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-7_factsheet.jpg
+
+newmtl Drinks_Front
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.427451 0.501961 0.537255
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Drinks-FA-PATH-3.jpg
+
+newmtl Drinks_Front_Left
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-FA-PATH-3.jpg
+
+newmtl Drinks_SideA
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.427451 0.501961 0.537255
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Drinks-FA-PATH-1.jpg
+
+newmtl Drinks_SideB
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.427451 0.501961 0.537255
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Drinks-FA-PATH-2.jpg
+
+newmtl Drinks_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-FA-PATH-1.jpg
+
+newmtl Drinks_Top_B
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CSP-Text-FA-PATH-1.jpg
+
+newmtl Food_Stall_Cashier_Front
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-4.jpg
+
+newmtl Food_Stall_Cashier_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Cashier_3.jpg
+
+newmtl Food_Stall_Chicken_Rice_Back
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-2.jpg
+
+newmtl Food_Stall_Chicken_Rice_Bottom
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-3.jpg
+
+newmtl Food_Stall_Chicken_Rice_Fascia
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Title-CS-FA-PATH-3.jpg
+
+newmtl Food_Stall_Chicken_Rice_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-FA-PATH-1.jpg
+
+newmtl Food_Stall_Counter
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-Build_1.jpg
+
+newmtl Food_Stall_Counter_Internal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-Build_2.jpg
+
+newmtl Food_Stall_Counter_Short_Long_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-Build_4.jpg
+
+newmtl Food_Stall_Counter_Short_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Build_2.jpg
+
+newmtl Food_Stall_Counter_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Build_3 copy.jpg
+
+newmtl Food_Stall_Drinks_Fascia
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Title-CS-FA-PATH-2.jpg
+
+newmtl Food_Stall_Snacks_Fascia
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Title-CS-FA-PATH-4.jpg
+
+newmtl Food_Stall_YTF_A4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Text-FA_PATH-3.jpg
+
+newmtl Food_Stall_YTF_Counter_Front
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Build_3.jpg
+
+newmtl Food_Stall_YTF_Counter_Front_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Build_1.jpg
+
+newmtl Food_Stall_YTF_Fascia
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_Title-CS-FA-PATH-1.jpg
+
+newmtl Light_Purple
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PMAX-CR-2_how.jpg
+
+newmtl Mat3d66-515882-1-552
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.968628 0.968628 0.968628
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Map #126
+
+newmtl Material_#1863
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material_#1864
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material_#2
+Ns 203.646760
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Map #2
+
+newmtl Material_#3987
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material_#3988
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material_#62329_Slot_#3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_#989
+Ns 407.293496
+Ka 1.000000 1.000000 1.000000
+Kd 0.537255 0.196078 0.196078
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd white grey
+
+newmtl Rice_Dumpling1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 1.000000 0.000000 C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-10.jpg
+
+newmtl Rice_Dumpling2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-11.jpg
+
+newmtl Rice_Dumpling3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-12.jpg
+
+newmtl Road_Sign_Green
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.254902 0.145098
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Snacks_Cashier
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-2-6.jpg
+
+newmtl Snacks_Instructions
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Text-FA-PATH-4.jpg
+
+newmtl Snacks_Top_Left
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Text-FA-PATH-1.jpg
+
+newmtl Snacks_Top_Right
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Text-FA-PATH-2.jpg
+
+newmtl Stainless_Steel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.439216 0.439216 0.439216
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Swiss_Roll1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-7.jpg
+
+newmtl Swiss_Roll2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-8.jpg
+
+newmtl Swiss_Roll3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-9.jpg
+
+newmtl Swiss_Roll4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-13.jpg
+
+newmtl Swiss_Roll5
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-CT-Snack-FA-PATH-14.jpg
+
+newmtl YTF_Cashier
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\COFFESHOP_L_IPAD_HOLDER_FA-2-7.jpg
+
+newmtl YTF_Ingredient01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-1.jpg
+
+newmtl YTF_Ingredient02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-2.jpg
+
+newmtl YTF_Ingredient03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-3.jpg
+
+newmtl YTF_Ingredient04
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-4.jpg
+
+newmtl YTF_Ingredient05
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-5.jpg
+
+newmtl YTF_Ingredient06
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-6.jpg
+
+newmtl YTF_Ingredient07
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-7.jpg
+
+newmtl YTF_Ingredient08
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-8.jpg
+
+newmtl YTF_Ingredient09
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-9.jpg
+
+newmtl YTF_Ingredient10
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-10.jpg
+
+newmtl YTF_Ingredient11
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-11.jpg
+
+newmtl YTF_Ingredient12
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-YTF-FA-PATH-12.jpg
+
+newmtl YTF_Instructions
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Text-FA_PATH-4.jpg
+
+newmtl YTF_Side_Panel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Text-FA_PATH-1.jpg
+
+newmtl YTF_Side_Panel_Below
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Text-FA_PATH-5.jpg
+
+newmtl YTF_Top_Panel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_Panel_CS-PCP-Text-FA_PATH-2.jpg
+
+newmtl black
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.050980 0.050980 0.050980
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.839216 0.831373 0.827451
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.639216
+illum 9
+
+newmtl iPad
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Coffee\\A&G_App-1_1.jpg
+
+newmtl ipad
+Ns 71.999991
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\A&G Roadshow
+
+newmtl ipad_rear
+Ns 71.999991
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\A&G Roadshow
+
+newmtl white
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl white.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
