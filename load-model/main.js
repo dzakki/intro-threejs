@@ -50,15 +50,7 @@ function main() {
     scene.add(light);
   }
 
-  // {
-  //   const color = 0xFFFFFF;
-  //   const intensity = 1;
-  //   const light = new THREE.DirectionalLight(color, intensity);
-  //   light.position.set(5, 10, 2);
-  //   scene.add(light);
-  //   scene.add(light.target);
-  // }
-
+  let locOfBakery;
   function frameArea(sizeToFitOnScreen, boxSize, boxCenter, camera) {
     const halfSizeToFitOnScreen = sizeToFitOnScreen * 0.5;
     const halfFovY = THREE.MathUtils.degToRad(camera.fov * .5);
@@ -73,6 +65,7 @@ function main() {
     // move the camera to a position distance units way from the center
     // in whatever direction the camera was from the center already
     camera.position.copy(direction.multiplyScalar(distance).add(boxCenter));
+    locOfBakery = direction.multiplyScalar(distance).add(boxCenter)
 
     // pick some near and far values for the frustum that
     // will contain the box.
@@ -83,16 +76,21 @@ function main() {
 
     // point the camera to look at the center of the box
     camera.lookAt(boxCenter.x, boxCenter.y, boxCenter.z);
-    // console.log(boxCenter.x, boxCenter.y, boxCenter.z)
   }
 
   // let boxCenter;
 
   {
+    let group = new THREE.Group();
+
     const gltfLoader = new GLTFLoader();
     gltfLoader.load(bakery, (gltf) => {
       const root = gltf.scene;
-      scene.add(root);
+
+      group.add(root);
+      group.name = "Bakery"
+
+      scene.add(group);
 
       // compute the box that contains all the stuff
       // from root and below
@@ -106,11 +104,44 @@ function main() {
       frameArea(boxSize * 0.5, boxSize, boxCenter, camera);
       // update the Trackball controls to handle the new size
       controls.maxDistance = boxSize * 10;
-      console.log(boxCenter)
       controls.target.copy(boxCenter);
       controls.update();
     });
   }
+
+
+  class PickHelper {
+    constructor() {
+      this.raycaster = new THREE.Raycaster();
+      this.pickedObject = null;
+      this.pickedObjectSavedColor = 0;
+    }
+    pick(normalizedPosition, scene, camera, time) {
+      // console.log("masuk")
+      // restore the color if there is a picked object
+      if (this.pickedObject) {
+        this.pickedObject.material.emissive.setHex(this.pickedObjectSavedColor);
+        this.pickedObject = undefined;
+      }
+   
+      // cast a ray through the frustum
+      this.raycaster.setFromCamera(normalizedPosition, camera);
+      // get the list of objects the ray intersected
+      const intersectedObjects = this.raycaster.intersectObjects(scene.children);
+      if (intersectedObjects.length) {
+        // pick the first object. It's the closest one
+        this.pickedObject = intersectedObjects[0].object;
+        // save its color
+        this.pickedObjectSavedColor = this.pickedObject.material.emissive.getHex();
+        // set its emissive color to flashing red/yellow
+        this.pickedObject.material.emissive.setHex(0xFF0000);
+      }
+    }
+  }
+
+  const pickPosition = {x: 0, y: 0};
+  const pickHelper = new PickHelper();
+  clearPickPosition();
 
   function resizeRendererToDisplaySize(renderer) {
     const canvas = renderer.domElement;
@@ -124,6 +155,9 @@ function main() {
   }
 
 
+  const raycaster = new THREE.Raycaster();
+  const mouse = new THREE.Vector2();
+
 
   function render() {
     if (resizeRendererToDisplaySize(renderer)) {
@@ -131,13 +165,66 @@ function main() {
       camera.aspect = canvas.clientWidth / canvas.clientHeight;
       camera.updateProjectionMatrix();
     }
-
+    pickHelper.pick(pickPosition, scene, camera);
     renderer.render(scene, camera);
 
     requestAnimationFrame(render);
   }
 
   requestAnimationFrame(render);
+  function getCanvasRelativePosition(event) {
+    const rect = canvas.getBoundingClientRect();
+    return {
+      x: (event.clientX - rect.left) * canvas.width  / rect.width,
+      y: (event.clientY - rect.top ) * canvas.height / rect.height,
+    };
+  }
+
+  function setPickPositionByClick (event) {
+    raycaster.setFromCamera( mouse, camera );
+    var intersects = raycaster.intersectObjects(scene.children, true);
+    if (intersects.length) {
+      intersects.forEach((intersect) => {
+        if (intersect.object.name == "Bakery") {
+          console.log(intersects)
+          console.log(locOfBakery)
+        }
+      })
+    }
+  }
+
+  function setPickPosition(event) {
+    const pos = getCanvasRelativePosition(event);
+    pickPosition.x = (pos.x / canvas.width ) *  2 - 1;
+    pickPosition.y = (pos.y / canvas.height) * -2 + 1;  // note we flip Y
+  }
+
+  function clearPickPosition() {
+    // unlike the mouse which always has a position
+    // if the user stops touching the screen we want
+    // to stop picking. For now we just pick a value
+    // unlikely to pick something
+    pickPosition.x = -100000;
+    pickPosition.y = -100000;
+  }
+  window.addEventListener('click', setPickPositionByClick)
+  window.addEventListener('mousemove', setPickPosition);
+  window.addEventListener('mouseout', clearPickPosition);
+  window.addEventListener('mouseleave', clearPickPosition);
+
+  window.addEventListener('touchstart', (event) => {
+    // prevent the window from 
+    event.preventDefault();
+
+    console.log("touchStart")
+    setPickPosition(event.touches[0]);
+  }, {passive: false});
+
+  window.addEventListener('touchmove', (event) => {
+    setPickPosition(event.touches[0]);
+  });
+
+  window.addEventListener('touchend', clearPickPosition);
 }
 
 main();
