@@ -1,0 +1,471 @@
+# Blender MTL File: 'None'
+# Material Count: 43
+
+newmtl Bakery_Career_Stories
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CCSS-FA-PATH-1.jpg
+
+newmtl Bakery_Career_Stories1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CCSS-FA-PATH-2.jpg
+
+newmtl Bakery_Career_Stories2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CCSS-FA-PATH-3.jpg
+
+newmtl Bakery_Career_Stories3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CCSS-FA-PATH-4.jpg
+
+newmtl Bakery_Header
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_Header-BKRY-FA-PATH-2.jpg
+
+newmtl Bakery_Intro
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Bread-2-1.jpg
+
+newmtl Bakery_Logo
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Text-3_4.jpg
+
+newmtl Bakery_Logo_Long
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Text-3_6.jpg
+
+newmtl Bakery_Main
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Text-6-1.jpg
+
+newmtl Bakery_Tray_Content
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Locations_2.jpg
+
+newmtl Bakery_Wall
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Build_1_1.jpg
+
+newmtl Bakery_Wall_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Build_1_2.jpg
+
+newmtl Bakery_iPad
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Text-6-5.jpg
+
+newmtl Bread_Loaf
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-BREAD_1-01.png
+
+newmtl Brown
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CMCP-1_1.png
+
+newmtl Brown.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CMCP-1_1.png
+
+newmtl CMCP_Intro
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-1.jpg
+
+newmtl Careers_Connect_Header
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_Header-BKRY-FA-PATH-1.jpg
+
+newmtl Carpet_Grass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\Astro Turf.jpg
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\Astro Turf.jpg
+
+newmtl CounterTop
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-Text-6-3.jpg
+
+newmtl Daily_Career_Workshops_Content01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CR-6-2.jpg
+
+newmtl Daily_Career_Workshops_Content02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CR-6-3.jpg
+
+newmtl Hardware_Store_iPad_Standee_Front
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_HRDWR-Build-Shelf-FA-PATH-8.jpg
+
+newmtl Hardware_Store_iPad_Standee_Side
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_HRDWR-Build-Shelf-FA-PATH-9.jpg
+
+newmtl Hardware_Store_iPad_Standee_Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_HRDWR-Build-Shelf-FA-PATH-7.jpg
+
+newmtl Material_#2
+Ns 203.646760
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Map #2
+
+newmtl Material_#989
+Ns 407.293496
+Ka 1.000000 1.000000 1.000000
+Kd 0.537255 0.196078 0.196078
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd white grey
+
+newmtl Pie1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-2.jpg
+
+newmtl Pie2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-3.jpg
+
+newmtl Pie3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-4.jpg
+
+newmtl Pie4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-5.jpg
+
+newmtl Pie5
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CARE360-5-6.jpg
+
+newmtl SE_Content
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CR-6-4.jpg
+
+newmtl SE_Intro
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CR-6-1.jpg
+
+newmtl Self_help_Content
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.913726 0.913726 0.913726
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_Panel_BKRY-CR-6-5.jpg
+
+newmtl Stainless_Steel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.439216 0.439216 0.439216
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl black
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.050980 0.050980 0.050980
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl iPad
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\Model\\Bakery\\A&G_App-1_1.jpg
+
+newmtl ipad
+Ns 71.999991
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\A&G Roadshow
+
+newmtl ipad_rear
+Ns 71.999991
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\hasany luthfi\\Pictures\\New folder (4)\\A&G Roadshow
+
+newmtl white
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl white.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl white_reflect
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
